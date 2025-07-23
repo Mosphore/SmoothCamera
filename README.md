@@ -1,2 +1,3 @@
 # SmoothCamera
-Implementation of a TPS Camera collision anticipation system i did for a recruitment test at ubisoft (hence the project name, and renaming is painfully hard))
+Unreal C++ implementation of a TPS Camera collision anticipation system for a recruitment test.  
+The project name is UbiTest because renaming Unreal C++ projects is painful.
